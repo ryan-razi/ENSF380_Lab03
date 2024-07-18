@@ -20,7 +20,7 @@ public abstract class Person {
 	protected static String nextPersonalNumber (short num) {
 		
 		lastPersonalNumber += num;
-		return "next personal number is " + lastPersonalNumber;
+		return "Next personal number is " + lastPersonalNumber;
 		
 	}
 	
